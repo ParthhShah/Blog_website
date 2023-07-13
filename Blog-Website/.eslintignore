@@ -1,4 +1,5 @@
 src/components/banner/Banner.jsx
 rules: {
-'no-unused': 'off'
+'no-unused': 'off',
+'no-unused-vars': 'warn'
 }
