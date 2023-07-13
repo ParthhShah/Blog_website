@@ -1,1 +1,4 @@
 src/components/banner/Banner.jsx
+rules: {
+'no-unused': 'off'
+}
